@@ -17,7 +17,7 @@
   <img align="left" alt="Anamta Khan's  Behance" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />
 </a>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif?cid=790b7611add71dc34af2deb382143de4b4bae950193f7bea&rid=giphy.gif&ct=g" height="200%"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif?cid=790b7611add71dc34af2deb382143de4b4bae950193f7bea&rid=giphy.gif&ct=g" width="70%" height="200%"/>
 
 
 <br />
