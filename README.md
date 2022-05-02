@@ -29,7 +29,6 @@
 ### WHO AM I! 🤔
 
 Computer Science Student at University of Engineering && Technology,Lahore ✔
-- 💻 Microsoft Learn Student Ambassador
 - ⚡ Internee in Front End Developer from Interns Pakistan 
 - ✌ MERN Stack Developer
 - 👯 Internee in React JS from Interns Pakistan
